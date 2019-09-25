@@ -1,0 +1,6 @@
+c:\users\201710437\documents\visual studio 2015\Projects\DivideandConquer\DivideandConquer\bin\Debug\DivideandConquer.exe.config
+c:\users\201710437\documents\visual studio 2015\Projects\DivideandConquer\DivideandConquer\obj\Debug\DivideandConquer.csprojResolveAssemblyReference.cache
+c:\users\201710437\documents\visual studio 2015\Projects\DivideandConquer\DivideandConquer\bin\Debug\DivideandConquer.exe
+c:\users\201710437\documents\visual studio 2015\Projects\DivideandConquer\DivideandConquer\bin\Debug\DivideandConquer.pdb
+c:\users\201710437\documents\visual studio 2015\Projects\DivideandConquer\DivideandConquer\obj\Debug\DivideandConquer.exe
+c:\users\201710437\documents\visual studio 2015\Projects\DivideandConquer\DivideandConquer\obj\Debug\DivideandConquer.pdb
